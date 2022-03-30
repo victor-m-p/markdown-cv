@@ -32,21 +32,21 @@ __Cognitive Science BSc, Aarhus University (AU)__
 ## Experience
 
 `2020-current`
-__Center for Humanities Computing Aarhus (CHCAA)__
+__Center for Humanities Computing Aarhus (CHCAA)__ <br/>
 Currently working for the Center for Humanities Computing Aarhus (CHCAA) as a
 student programmer. Mainly natural language processing (NLP) and social
 networks (e.g. Twitter, Reddit 4chan). Currently working with researchers to
 understand Chinese diplomats and state media on Twitter, see
-[github](https://github.com/centre-for-humanities-computing/china-twitter).
+[Github](https://github.com/centre-for-humanities-computing/china-twitter).
 
 `2019-2020`
-__Research Assistant at Music in the Brain (MiB)__
+__Research Assistant at Music in the Brain (MiB)__ <br/>
 Research assistant on a large-scale neuroimaging- and behavioural study on
 structural and functional changes in the brains of first-time parents. Learned
 to scan using fMRI, MEG and to conduct behavioural testing and data analysis.
 
 `2018-2020`
-__Teaching Assistant (TA) at Cognitive Science BSc__
+__Teaching Assistant (TA) at Cognitive Science BSc__ <br/>
 Teaching assistant (TA) for Studium Generale (2018) covering history and philosophy
 of science (with a focus on psychology and philosophy of mind). TA for Experimental Methods 3 (2020)
 covering frequentist multilevel modeling. TA for Computational Modeling of
