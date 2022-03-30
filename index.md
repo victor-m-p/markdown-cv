@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Victor M. Poulsen CV
+title: Victor M. Poulsen's CV
 ---
-# Isaac Newton
+# Victor M. Poulsen
 Cognitive Science, Bayesian Analysis, Social Networks
 
 <div id="webaddress">
