@@ -35,7 +35,7 @@ __Cognitive Science BSc, Aarhus University (AU)__
 __Center for Humanities Computing Aarhus (CHCAA)__ <br/>
 Currently working for the Center for Humanities Computing Aarhus (CHCAA) as a
 student programmer. Mainly natural language processing (NLP) and social
-networks (e.g. Twitter, Reddit 4chan). Currently working with researchers to
+networks (e.g. Twitter, Reddit, 4chan). Currently working with researchers to
 understand Chinese diplomats and state media on Twitter, see
 [Github](https://github.com/centre-for-humanities-computing/china-twitter).
 
