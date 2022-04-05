@@ -13,7 +13,7 @@ Cognitive Science, Bayesian Analysis, Social Networks
 
 ## Currently
 
-Writing my Master's thesis at the Cognitive Science MSc programme at Aarhus University (AU).
+Writing my Master's thesis at the Cognitive Science MSc programme at Aarhus University (AU). The thesis will use Bayesian statistical modeling and network science to model and understand the reform movement in psychology. 
 
 ## Research interests
 
@@ -24,11 +24,11 @@ the Science of Science.
 
 `2020-current`
 __Cognitive Science MSc, Aarhus University (AU)__ <br/>
-Including elective in mathematics. Bachelor project an Agent-Based Model (ABM) extending on "Scientific discovery in a model-centric framework: Reproducibility, innovation, and epistemic diversity" by Devezer et al. (2019).
+Including internship at the NEtwoRks, Data, and Society (NERDS) research group at the IT-University of Copenhagen (ITU) working on science of science. In general focusing on Bayesian statistics, network science and NLP. 
 
 `2017-2020`
 __Cognitive Science BSc, Aarhus University (AU)__
-Including internship at the NEtwoRks, Data, and Society (NERDS) research group at the IT-University of Copenhagen (ITU) working on science of science. 
+Including elective in mathematics. Bachelor project an Agent-Based Model (ABM) extending on "Scientific discovery in a model-centric framework: Reproducibility, innovation, and epistemic diversity" by Devezer et al. (2019). Learning about statistics, social and cultural dynamics, cognition and language. 
 
 ## Experience
 
