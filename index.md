@@ -12,7 +12,7 @@ Cognitive Science, Bayesian Analysis, Social Networks
 
 ## Contact
 
-e-mail: victormoeller@gmail.com
+e-mail: victormoeller@gmail.com <br/>
 phone: +4529807749
 
 ## Currently
