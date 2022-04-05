@@ -15,7 +15,7 @@ Cognitive Science, Bayesian Analysis, Social Networks
 
 Writing my Master's thesis at the Cognitive Science MSc programme at Aarhus University (AU).
 
-### Research interests
+## Research interests
 
 Cognitive Science, Social Networks, NLP, Bayesian Analysis, Complexity Science,
 the Science of Science.
@@ -23,11 +23,12 @@ the Science of Science.
 ## Education
 
 `2020-current`
-__Cognitive Science MSc, Aarhus University (AU)__
+__Cognitive Science MSc, Aarhus University (AU)__ <br/>
+Including elective in mathematics. Bachelor project an Agent-Based Model (ABM) extending on "Scientific discovery in a model-centric framework: Reproducibility, innovation, and epistemic diversity" by Devezer et al. (2019).
 
 `2017-2020`
 __Cognitive Science BSc, Aarhus University (AU)__
-
+Including internship at the NEtwoRks, Data, and Society (NERDS) research group at the IT-University of Copenhagen (ITU) working on science of science. 
 
 ## Experience
 
