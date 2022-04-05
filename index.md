@@ -10,6 +10,10 @@ Cognitive Science, Bayesian Analysis, Social Networks
 | <a href="https://twitter.com/vic_moeller">Twitter</a>
 </div>
 
+## Contact
+
+e-mail: victormoeller@gmail.com
+phone: +4529807749
 
 ## Currently
 
