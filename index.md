@@ -22,7 +22,7 @@ the Science of Science.
 
 ## Education
 
-2020-current
+`2020-current`
 __Cognitive Science MSc, Aarhus University (AU)__ <br/>
 Including internship at the NEtwoRks, Data, and Society (NERDS) research group at the IT-University of Copenhagen (ITU) working on science of science. In general focusing on Bayesian statistics, network science and NLP. 
 
