@@ -22,12 +22,12 @@ the Science of Science.
 
 ## Education
 
-`2020-current`
+2020-current
 __Cognitive Science MSc, Aarhus University (AU)__ <br/>
 Including internship at the NEtwoRks, Data, and Society (NERDS) research group at the IT-University of Copenhagen (ITU) working on science of science. In general focusing on Bayesian statistics, network science and NLP. 
 
 `2017-2020`
-__Cognitive Science BSc, Aarhus University (AU)__
+__Cognitive Science BSc, Aarhus University (AU)__ <br/>
 Including elective in mathematics. Bachelor project an Agent-Based Model (ABM) extending on "Scientific discovery in a model-centric framework: Reproducibility, innovation, and epistemic diversity" by Devezer et al. (2019). Learning about statistics, social and cultural dynamics, cognition and language. 
 
 ## Experience
