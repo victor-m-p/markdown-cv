@@ -14,7 +14,7 @@ Cognitive Science, Bayesian Analysis & Social Networks
 
 ## Profile & Research
 
-Interested in research at the intersection of Cognitive Science, Social Networks, Bayesian Statistics and Complexity Science. Solid theoretical and statistical background and interest. Strong coding skills in R and Python & some bash scripting. Have done research on the Science of Science & COVID using network science methodology with Roberta Sinatra (NERDS, ITU), and have used Agent-Based Model (ABM) to understand scientific discovery and diversity with Riccardo Fusaroli (AU). Currently writing my Master's thesis at the Cognitive Science MSc programme at Aarhus University (AU) supervised by Riccardo Fusaroli. The thesis uses Bayesian statistical modeling, network science and NLP to understand the reform movement in psychology. 
+Interested in research at the intersection of Cognitive Science, Social Networks, Bayesian Statistics and Complexity Science. I have a solid theoretical and statistical background and interest. I also have strong coding skills in R, Python and bash scripting. I have conducted research on the Science of Science & COVID using network science methodology with Roberta Sinatra (NERDS, ITU), and have used Agent-Based Modeling (ABM) to understand scientific discovery and diversity with Riccardo Fusaroli (AU). Currently writing my Master's thesis at the Cognitive Science MSc programme at Aarhus University (AU) supervised by Riccardo Fusaroli. The thesis uses Bayesian statistical modeling, network science and NLP to understand the reform movement in psychology. 
 
 ## Education
 
@@ -24,7 +24,7 @@ Including internship at the NEtwoRks, Data, and Society (NERDS) research group a
 
 `2017-2020`
 __Cognitive Science BSc, Aarhus University (AU)__ <br/>
-Including elective in mathematics. Bachelor project an Agent-Based Model (ABM) extending on "Scientific discovery in a model-centric framework: Reproducibility, innovation, and epistemic diversity" by Devezer et al. (2019). Learning about statistics, social and cultural dynamics, cognition and language. 
+Including elective in mathematics at AU. The bachelor project was an Agent-Based Model (ABM) extending on "Scientific discovery in a model-centric framework: Reproducibility, innovation, and epistemic diversity" by Devezer et al. (2019). Learning statistics, social and cultural dynamics, cognition and language. 
 
 ## Job Experience 
 
