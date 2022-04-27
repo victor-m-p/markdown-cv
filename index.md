@@ -12,19 +12,9 @@ Cognitive Science, Bayesian Analysis & Social Networks
 | <a href="https://twitter.com/vic_moeller">Twitter</a>
 </div>
 
-## Contact
+## Profile & Research
 
-e-mail: victormoeller@gmail.com <br/>
-phone: +4529807749
-
-## Currently
-
-Writing my Master's thesis at the Cognitive Science MSc programme at Aarhus University (AU). The thesis will use Bayesian statistical modeling and network science to model and understand the reform movement in psychology. 
-
-## Research interests & skills
-
-* Cognitive Science, Social Networks, NLP, Bayesian Analysis, Complexity Science, the Science of Science. 
-* R, Python, Bash, Statistics. 
+Interested in research at the intersection of Cognitive Science, Social Networks, Bayesian Statistics and Complexity Science. Solid theoretical and statistical background and interest. Strong coding skills in R and Python & some bash scripting. Have done research on the Science of Science & COVID using network science methodology with Roberta Sinatra (NERDS, ITU), and have used Agent-Based Model (ABM) to understand scientific discovery and diversity with Riccardo Fusaroli (AU). Currently writing my Master's thesis at the Cognitive Science MSc programme at Aarhus University (AU) supervised by Riccardo Fusaroli. The thesis uses Bayesian statistical modeling, network science and NLP to understand the reform movement in psychology. 
 
 ## Education
 
