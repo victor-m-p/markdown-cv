@@ -1,12 +1,14 @@
 ---
 layout: cv
-title: Victor M. Poulsen's CV
+title: 
 ---
 # Victor M. Poulsen
-Cognitive Science, Bayesian Analysis, Social Networks
+Cognitive Science, Bayesian Analysis & Social Networks
 
 <div id="webaddress">
-<a href="https://github.com/victor-m-p">Github</a>
+  +4529807749</a>
+  victormoeller@gmail.com</a>
+| <a href="https://github.com/victor-m-p">Github</a>
 | <a href="https://twitter.com/vic_moeller">Twitter</a>
 </div>
 
