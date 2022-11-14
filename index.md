@@ -14,11 +14,11 @@ Cognitive Science, Bayesian Analysis & Social Networks
 
 ## Profile & Research
 
-Doing research at the intersection of Cognitive Science, Social Networks, Bayesian Statistics and Complexity Science. I have a solid theoretical and statistical understanding and strong coding skills in R, Python and bash scripting. I have worked with Roberta Sinatra (ITU) on science of science (internship), with Riccardo Fusaroli (AU) on the replication crisis and reform movement in psychology (Master's thesis). Currently working with Simon DeDeo (CMU) on culture and cognition using NLP, ML, and experimental approaches (predoc). 
+Doing research at the intersection of Cognitive Science, Social Networks, Bayesian Statistics and Complexity Science. I have a solid theoretical and statistical understanding and strong coding skills in R, Python and bash scripting. I have worked with Roberta Sinatra (ITU) on science of science (internship), with Riccardo Fusaroli (AU) on the replication crisis and reform movement in psychology (Master's thesis). Currently working with Simon DeDeo (CMU) on culture and cognition using NLP, ML, and experimental approaches (predoctoral fellowship). 
 
 ## Education
 
-`2020-current`
+`2020-2022`
 __Cognitive Science MSc, Aarhus University (AU)__ <br/>
 Including internship at the NEtwoRks, Data, and Society (NERDS) research group at the IT-University of Copenhagen (ITU) working on science of science. In general focusing on Bayesian statistics, network science and NLP. 
 
@@ -29,8 +29,8 @@ Including elective in mathematics at AU. The bachelor project was an Agent-Based
 ## Job Experience 
 
 `2022-current` 
-__Predoc at Carnegie Mellon University (Simon DeDeo)__ <br/>
-Currently working with prof. Simon DeDeo at Carnegie Mellon University (CMU) as a predoctoral researcher. One project uses experimental approaches and cutting-edge NLP (e.g. sentenceBERT, GPT-3) to understand how humans think about possibilities. Another project uses insights from statistical mechanics, maximum entropy and ML to model the constraint networks of religious beliefs (using the DRH database). 
+__Predoctoral Fellowship at Carnegie Mellon University (Simon DeDeo)__ <br/>
+Currently working with prof. Simon DeDeo at Carnegie Mellon University (CMU) as a predoctoral researcher. One project uses experimental approaches and cutting-edge NLP (e.g. sentenceBERT, GPT-3) to understand how humans think about possibilities. Another project uses insights from statistical mechanics, maximum entropy, and ML to model the constraint networks of religious beliefs (using the DRH database). 
 
 `2020-2022`
 __Center for Humanities Computing Aarhus (CHCAA)__ <br/>
