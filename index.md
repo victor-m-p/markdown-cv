@@ -14,7 +14,7 @@ Cognitive Science, Bayesian Analysis & Social Networks
 
 ## Profile & Research
 
-Interested in research at the intersection of Cognitive Science, Social Networks, Bayesian Statistics and Complexity Science. I have a solid theoretical and statistical understanding and strong coding skills in R, Python and bash scripting. I have conducted research on the Science of Science & COVID using network science methodology with Roberta Sinatra (NERDS, ITU), and have used Agent-Based Modeling (ABM) to understand scientific discovery and diversity with Riccardo Fusaroli (AU). Currently writing my Master's thesis at the Cognitive Science MSc programme at Aarhus University (AU) supervised by Riccardo Fusaroli. The thesis uses Bayesian statistical modeling, network science and NLP to understand the reform movement in psychology. 
+Doing research at the intersection of Cognitive Science, Social Networks, Bayesian Statistics and Complexity Science. I have a solid theoretical and statistical understanding and strong coding skills in R, Python and bash scripting. I have worked with Roberta Sinatra (ITU) on science of science (internship), with Riccardo Fusaroli (AU) on the replication crisis and reform movement in psychology (Master's thesis). Currently working with Simon DeDeo (CMU) on culture and cognition using NLP, ML, and experimental approaches (predoc). 
 
 ## Education
 
@@ -28,14 +28,14 @@ Including elective in mathematics at AU. The bachelor project was an Agent-Based
 
 ## Job Experience 
 
-`2020-current`
+`2022-current` 
+__Predoc at Carnegie Mellon University (Simon DeDeo)__ <br/>
+Currently working with prof. Simon DeDeo at Carnegie Mellon University (CMU) as a predoctoral researcher. One project uses experimental approaches and cutting-edge NLP (e.g. sentenceBERT, GPT-3) to understand how humans think about possibilities. Another project uses insights from statistical mechanics, maximum entropy and ML to model the constraint networks of religious beliefs (using the DRH database). 
+
+`2020-2022`
 __Center for Humanities Computing Aarhus (CHCAA)__ <br/>
-Currently working for the Center for Humanities Computing Aarhus (CHCAA) as a
-student programmer. CHCAA is a computational research laboratory at Aarhus University (AU).
-As a student programmer I develop research projects with researchers from the humanities,
-and conduct analyses. My projects have mainly used natural language processing (NLP)
-and social network analysis (e.g. Twitter, Reddit, 4chan). Currently working with researchers
-to understand Chinese diplomats and state media on Twitter, see
+Working as a student programmer at the Center for Humanities Computing Aarhus (CHCAA). 
+Working with researchers from the humanities to develop and conduct analyses, mainly focusing on NLP and social network analysis (e.g. Twitter, Reddit, 4chan). A major project involved analyzing Chinese diplomats and state media on Twitter
 [Github](https://github.com/centre-for-humanities-computing/china-twitter).
 
 `2018-2020`
@@ -53,6 +53,6 @@ imaging on participants, as well as behavioural testing, data analysis, planning
 
 <!-- ### Footer
 
-Last updated: March 2022 -->
+Last updated: November 2022 -->
 
 
