@@ -19,11 +19,11 @@ I am broadly interseted in complexity science research, including social network
 
 `2020-2022`
 __Cognitive Science MSc, Aarhus University (AU)__ <br/>
-In the 2020-2022 period I obtained a Cognitive Science (MSc) degree from Aarhus University (AU). The Master's thesis "..." focused on understanding the social dynamics of the replication crisis in psychological science, and the reform movement which followed. The thesis used advanced Bayesian statistics to model citations for replication articles, and used NLP and social network analysis methods to understand the topics of contention, and the social dynamics of the reform movement. As part of my Master's studies I did an internship with prof. Roberta Sinatra at the NEtworKs, Data, and Society (NERDS) research group at the IT-University of Copenhagen (ITU). The work focused on the impact of COVID-19 on scientific publishing, in particular my work focused on changes in the collaboration network centrality of various groups. 
+In the 2020-2022 period I obtained a Cognitive Science (MSc) degree from Aarhus University (AU). My Master's thesis "The Social Dynamics of Reform" focused on understanding the social dynamics of the replication crisis in psychological science, and the reform movement which followed. The thesis used advanced Bayesian statistics to model citations for replication articles, and used NLP and social network analysis methods to understand the topics of contention, and the social dynamics of the reform movement. As part of my Master's studies I did an internship with prof. Roberta Sinatra at the NEtworKs, Data, and Society (NERDS) research group at the IT-University of Copenhagen (ITU). The work focused on the impact of COVID-19 on scientific publishing, in particular my work focused on changes in the collaboration network centrality of various groups. 
 
 `2017-2020`
 __Cognitive Science BSc, Aarhus University (AU)__ <br/>
-In the 2017-2020 period I obtained a Cognitive Science (BSc) degree from Aarhus University (AU). The Bachelor's thesis "..." was a an attempt to extend a previously published ABM by Devezer et al. (2019). The project investigated how agents pursuing various research strategies and interact can reliably explore a hypothesis space, the role of diversity, and network connectivity. As part of my Bachelor's studies I took electives at the mathematics department at Aarhus University (AU) to strenghten my quantitative profile. 
+In the 2017-2020 period I obtained a Cognitive Science (BSc) degree from Aarhus University (AU). My Bachelor's thesis was a an attempt to extend a previously published ABM by Devezer et al. (2019). The project investigated how agents pursuing various research strategies and interact can reliably explore a hypothesis space, the role of diversity, and network connectivity. As part of my Bachelor's studies I took electives at the mathematics department at Aarhus University (AU) to strenghten my quantitative profile. 
 
 ## Job Experience 
 
@@ -63,16 +63,15 @@ I was a teaching assistant for Savhannah Schulz on the course "Studium Generale"
 
 ## Publications
 
-`2023`
-__Cognitive Attractors and the Cultural Evolution of Religion__ </br>
-Research article submitted to the Cognitive Science Society conference (CogSci23). The article is currently in review. The article extends on the case-study reported in 'Inferring Cultural Landscapes with the Inverse Ising Model', and presents approaches to model cultural attractors and cultural evolution using Glauber dynamics. 
-
 `2023` 
-__Inferring Cultural Landscapes with the Inverse Ising Model__ </br>
-Research article published in Entropy as first author with prof. Simon DeDeo (https://doi.org/10.3390/e25020264). The article presents extensions and improvements to the Minimum Probability Flow (MPF) algorithm to approximate the inverse Ising model, and features a case-study on the Database of Religious History (DRH). 
+__Poulsen, V. M., & DeDeo, S. (2023). Inferring Cultural Landscapes with the Inverse Ising Model. Entropy, 25(2), 264.__ </br>
+The article presents extensions and improvements to the Minimum Probability Flow (MPF) algorithm to approximate the inverse Ising model, and features a case-study on the Database of Religious History (DRH). 
+
+__Cognitive Attractors and the Cultural Evolution of Religion__ </br>
+Research article submitted to the Cognitive Science Society conference (CogSci23). The article extends on the case-study reported in Poulsen and DeDeo (2023), and approaches to cultural evolution using Glauber dynamics. 
 
 <!-- ### Footer
 
-Last updated: November 2022 -->
+Last updated: March 2023 -->
 
 
