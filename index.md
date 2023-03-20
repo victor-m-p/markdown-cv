@@ -66,6 +66,17 @@ The article presents extensions and improvements to the Minimum Probability Flow
 __Cognitive Attractors and the Cultural Evolution of Religion__ <br/>
 Research article submitted to the Cognitive Science Society conference (CogSci23). The article extends on the case-study reported in Poulsen and DeDeo (2023) and focuses on approaches cultural evolutionary questions. 
 
+## References
+__prof. Riccardo Fusaroli (AU)__ <br/>
+Relation: Previous advisor during my BSc and MSc in Cognitive Science at Aarhus University. <br/>
+Email: fusaroli@cc.au.dk <br/>
+Phone: (+45)87163145
+
+__prof. Simon DeDeo (CMU/SFI)__ <br/>
+Relation: I am currently a predoctoral fellow with prof. Simon DeDeo <br/>
+Email: sdedeo@andrew.cmu.edu <br/>
+Phone: (+1)(412)-268-3009
+
 <!-- ### Footer
 
 Last updated: March 2023 -->
