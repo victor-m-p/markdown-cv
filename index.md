@@ -40,9 +40,9 @@ __Research Assistant at Music in the Brain (MiB)__ <br/>
 In the 2019-2020 period, I worked as a research assistant on a large-scale neuroimaging- and behavioural study focusing on the structural and functional changes in the brains of first-time parents. I conducted fMRI and MEG imaging on participants, as well as behavioural testing, data analysis, planning, and recruiting. 
 
 ## Technical Skills and Languages
---> Danish, and English (excellent)
---> Python, R, LaTeX, and GitHub (excellent) 
---> Julia, Bash, and Inkscape (decent)
+* Danish, and English (excellent)
+* Python, R, LaTeX, and GitHub (excellent) 
+* Julia, Bash, and Inkscape (decent)
 
 ## Teaching Experience
 `2020`
@@ -60,11 +60,11 @@ I was a teaching assistant for Savhannah Schulz on the course "Studium Generale"
 ## Publications
 
 `2023` 
-__Poulsen, V. M., & DeDeo, S. (2023). Inferring Cultural Landscapes with the Inverse Ising Model. Entropy, 25(2), 264.__ 
+__Poulsen, V. M., & DeDeo, S. (2023). Inferring Cultural Landscapes with the Inverse Ising Model. Entropy, 25(2), 264.__ <br/> 
 The article presents extensions and improvements to the Minimum Probability Flow (MPF) algorithm to approximate the inverse Ising model, and features a case-study on the Database of Religious History (DRH). 
 
-__Cognitive Attractors and the Cultural Evolution of Religion__ </br>
-Research article submitted to the Cognitive Science Society conference (CogSci23). The article extends on the case-study reported in Poulsen and DeDeo (2023), and approaches to cultural evolution using Glauber dynamics. 
+__Cognitive Attractors and the Cultural Evolution of Religion__ <br/>
+Research article submitted to the Cognitive Science Society conference (CogSci23). The article extends on the case-study reported in Poulsen and DeDeo (2023) and focuses on approaches cultural evolutionary questions. 
 
 <!-- ### Footer
 
