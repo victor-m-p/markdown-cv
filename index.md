@@ -8,8 +8,7 @@ Predoctoral Fellow at Carnegie Mellon University (CMU)
 <div id="webaddress">
   +1-412-450-7674
 |  victormoeller@gmail.com
-| <a href="https://github.com/victor-m-p">Github</a>
-| <a href="https://twitter.com/vic_moeller">Twitter</a>
+  <a href="https://victorpoulsen.com/"><victorpoulsen.com>
 </div>
 
 ## Profile & Research
@@ -19,11 +18,11 @@ I am broadly interseted in complexity science research, including social network
 
 `2020-2022`
 __Cognitive Science MSc, Aarhus University (AU)__ <br/>
-In the 2020-2022 period I obtained a Cognitive Science (MSc) degree from Aarhus University (AU). My Master's thesis "The Social Dynamics of Reform" used Bayesian modeling, network analysis, and NLP to understand the social dynamics of the reform movement spurred by the replication crisis in psychological science. As part of my Master's studies I did an internship with prof. Roberta Sinatra at the NEtworKs, Data, and Society (NERDS) research group at the IT-University of Copenhagen (ITU). The work involved a big data investigation into the impact of COVID-19 on scientific publishing, my working focusing mostly on characterizing changes in the collaboration network centrality of various groups of researchers. 
+In the 2020-2022 period I obtained a Cognitive Science (MSc) degree from Aarhus University (AU). My Master's thesis used Bayesian modeling, network analysis, and NLP to understand the social dynamics of the reform movement spurred by the replication crisis in psychological science. As part of my Master's studies I did an internship with prof. Roberta Sinatra at the NEtworKs, Data, and Society (NERDS) research group at the IT-University of Copenhagen (ITU). The work involved a big data investigation into the impact of COVID-19 on scientific publishing, my working focusing mostly on characterizing changes in the collaboration network centrality of various groups of researchers. 
 
 `2017-2020`
 __Cognitive Science BSc, Aarhus University (AU)__ <br/>
-In the 2017-2020 period I obtained a Cognitive Science (BSc) degree from Aarhus University (AU). My Bachelor's thesis "The Truth Hurts" implemented an ABM to investigate the role of scientific research strategies, diversity, and network connectivity in scientific discovery. As part of my Bachelor's studies I took electives at the mathematics department at Aarhus University (AU) to strenghten my quantitative profile. 
+In the 2017-2020 period I obtained a Cognitive Science (BSc) degree from Aarhus University (AU). My Bachelor's thesis implemented an ABM to investigate the role of scientific research strategies, diversity, and network connectivity in scientific discovery. As part of my Bachelor's studies I took electives at the mathematics department at Aarhus University (AU) to strenghten my quantitative profile. 
 
 ## Job Experience 
 
