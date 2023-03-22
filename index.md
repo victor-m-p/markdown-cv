@@ -8,7 +8,7 @@ Predoctoral Fellow at Carnegie Mellon University (CMU)
 <div id="webaddress">
   +1-412-450-7674
 |  victormoeller@gmail.com
-|  <a href="https://victorpoulsen.com/"><victorpoulsen.com></a>
+|  <a href="https://victorpoulsen.com/">victorpoulsen.com</a>
 </div>
 
 ## Profile & Research
