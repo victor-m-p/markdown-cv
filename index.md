@@ -7,7 +7,7 @@ Predoctoral Fellow at Carnegie Mellon University (CMU)
 
 <div id="webaddress">
   5234 Forbes Ave, PA 15217 
-  +1-412-450-7674
+|  +1-412-450-7674
 |  victormoeller@gmail.com
 |  <a href="https://victorpoulsen.com/">victorpoulsen.com</a>
 </div>
