@@ -5,10 +5,9 @@ title:
 # Victor M. Poulsen
 Predoctoral Fellow at Carnegie Mellon University (CMU)
 
-<div id="personal">
-  5234 Forbes Ave, PA 15217 
-|  +1-412-450-7674
-
+<div id="webaddress">
+    5234 Forbes Ave, PA 15217 
+  |  +1-412-450-7674
 </div>
 <div id="webaddress">
     victormoeller@gmail.com
