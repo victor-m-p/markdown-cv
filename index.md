@@ -63,10 +63,10 @@ The Cognitive Science (BSc) course was taught by prof. Savhannah Schultz and foc
 
 `2023` 
 __Poulsen, V. M., & DeDeo, S. (2023). Inferring Cultural Landscapes with the Inverse Ising Model. Entropy, 25(2), 264.__ <br/> 
-The article presents extensions and improvements to the Minimum Probability Flow (MPF) algorithm to approximate the inverse Ising model, and features a case-study on the Database of Religious History (DRH). Article available here: https://www.mdpi.com/1099-4300/25/2/264
+The article presents extensions and improvements to the Minimum Probability Flow (MPF) algorithm to approximate the inverse Ising model, and features a case-study on the Database of Religious History (DRH). Article available here: [https://www.mdpi.com/1099-4300/25/2/264](https://www.mdpi.com/1099-4300/25/2/264)
 
 __Cognitive Attractors and the Cultural Evolution of Religion (in review)__ <br/>
-Pre-review copy available here: https://sites.santafe.edu/~simon/poulsen_dedeo.pdf
+Pre-review copy available here: [https://sites.santafe.edu/~simon/poulsen_dedeo.pdf](https://sites.santafe.edu/~simon/poulsen_dedeo.pdf)
 
 ## References
 __Associate Professor Riccardo Fusaroli (AU)__ <br/>
